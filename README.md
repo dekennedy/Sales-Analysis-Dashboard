@@ -54,9 +54,11 @@ Act:  Putting your insights to work to solve the problem
 
 ### Sources
 
+-[Analyze With Ali](https://www.youtube.com/channel/UCaDh-eU-lds_d9kS976vBVw)
+
 -[AdventureWorks Sample Databases](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
 
--[Analyze With Ali](https://www.youtube.com/channel/UCaDh-eU-lds_d9kS976vBVw)
+-[techtalkcorner](https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql)
 
 
 [Back To The Top](#Sales-Analysis-Dashboard)

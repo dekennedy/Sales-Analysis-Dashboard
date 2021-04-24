@@ -42,6 +42,12 @@ The Google Frame Work fot Data Analysis is as Follows:
 
 
 
+#### Ask: Business Challenge/Objective/Question
+For this data set we want to know a few things. 
+
+
+
+
 
 
 #### Technologies

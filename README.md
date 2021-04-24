@@ -22,9 +22,16 @@ Sales Analysis, Business Requirements and Planning using  Power BI and SQL
 ## Description
 Sales Analysis, Business Requirements and Planning using Power BI and SQL
 
-In this Project...--Update
+In this project I use the Google Frame to work through Data Analysis project using sample data avaiable from Adventure works. 
 
+The Google Frame Work fot Data Analysis is as Follows:
 
+Ask: Business Challenge/Objective/Question
+Prepare: Data generation, collection, storage, and data management
+Process: Data cleaning/data integrity
+Analyze: Data exploration, visualization, and analysis
+Share: Communicating and interpreting results 
+Act:  Putting your insights to work to solve the problem
 
 
 
@@ -47,7 +54,9 @@ In this Project...--Update
 
 ### Sources
 
-[AdventureWorks Sample Databases](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
+-[AdventureWorks Sample Databases](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
+
+-[Analyze With Ali](https://www.youtube.com/channel/UCaDh-eU-lds_d9kS976vBVw)
 
 
 [Back To The Top](#Sales-Analysis-Dashboard)

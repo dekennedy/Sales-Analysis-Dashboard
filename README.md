@@ -26,12 +26,12 @@ In this project I use the Google Frame to work through Data Analysis project usi
 
 The Google Frame Work fot Data Analysis is as Follows:
 
-Ask: Business Challenge/Objective/Question
-Prepare: Data generation, collection, storage, and data management
-Process: Data cleaning/data integrity
-Analyze: Data exploration, visualization, and analysis
-Share: Communicating and interpreting results 
-Act:  Putting your insights to work to solve the problem
+- Ask: Business Challenge/Objective/Question
+- Prepare: Data generation, collection, storage, and data management
+- Process: Data cleaning/data integrity
+- Analyze: Data exploration, visualization, and analysis
+- Share: Communicating and interpreting results 
+- Act:  Putting your insights to work to solve the problem
 
 
 

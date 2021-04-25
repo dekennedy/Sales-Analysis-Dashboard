@@ -2,8 +2,8 @@
 Sales Analysis, Business Requirements and Planning using  Power BI and SQL
 
 
-![Viz1](https://github.com/dekennedy/NYC-Motor-Vehicle-Collisions/blob/main/Map%201.PNG)
-> Main Viz for Project--Update
+![Viz1](https://github.com/dekennedy/Sales-Analysis-Dashboard/blob/main/Sales%20DashBoard.PNG)
+> Dashboard Created Using Power BI
 
 
 

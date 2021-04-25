@@ -22,7 +22,7 @@ Sales Analysis, Business Requirements and Planning using  Power BI and SQL
 ## Description
 Sales Analysis, Business Requirements and Planning using Power BI and SQL
 
-In this project I work through Data Analysis project using sample data avaiable from Adventure works.  
+In this project I work through a Data Analysis project using sample data avaiable from Adventure works.  
 
 
 #### Technologies

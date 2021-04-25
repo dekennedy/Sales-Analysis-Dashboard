@@ -22,32 +22,7 @@ Sales Analysis, Business Requirements and Planning using  Power BI and SQL
 ## Description
 Sales Analysis, Business Requirements and Planning using Power BI and SQL
 
-In this project I use the Google Frame to work through Data Analysis project using sample data avaiable from Adventure works. 
-
-The Google Frame Work fot Data Analysis is as Follows:
-
-- Ask: Business Challenge/Objective/Question
-- Prepare: Data generation, collection, storage, and data management
-- Process: Data cleaning/data integrity
-- Analyze: Data exploration, visualization, and analysis
-- Share: Communicating and interpreting results 
-- Act:  Putting your insights to work to solve the problem
-
-
-
-
-
-![Viz 2](https://github.com/dekennedy/NYC-Motor-Vehicle-Collisions/blob/main/Map%202.PNG)
-> Viz 2 is a....--Update
-
-
-
-#### Ask: Business Challenge/Objective/Question
-For this data set we want to know a few things. 
-
-
-
-
+In this project I work through Data Analysis project using sample data avaiable from Adventure works.  
 
 
 #### Technologies
